@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondamonnut&layout=compact&theme=buefy&hide_border=true" /></a>
 
-
+-->
 
 WakaTime stat: code writing time real-time tracking (I started tracking from Feb 20 2023)
 
