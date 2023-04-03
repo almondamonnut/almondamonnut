@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 
 
+WakaTime stat: code writing time real-time tracking (I started tracking from Feb 20 2023)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almond555)
