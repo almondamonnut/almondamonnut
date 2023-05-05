@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+WakaTime Stat: code writing time real-time tracking (I started tracking from 20 Feb 2023)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almondamonnut&layout=compact&theme=buefy&hide_border=true" /></a>
 
 -->
-
-WakaTime Stat: code writing time real-time tracking (I started tracking from 20 Feb 2023)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=almond555)
